@@ -18,13 +18,6 @@ app.use(express.static(path.join(__dirname, 'build')));
 
 
 
-// const pool = new Pool({
-//     user: 'fernandezf',
-//     host:'172.5.5.81',
-//     database: 'inaes',
-//     password: 'Inaes2024.07',
-//     port: 5432, 
-// });
 
 const pool = new Pool ({
     user: process.env.DB_USER,
