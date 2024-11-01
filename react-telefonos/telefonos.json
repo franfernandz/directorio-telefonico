@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "nombre": "Jesús",
+        "apellido": "Rocja",
+        "area": "Recepción",
+        "edificio": "1656",
+        "piso": "PB Frente",
+        "interno": "1010"
+    },
+    {
+        "id": 2,
+        "nombre": "Recepcíon 1656",
+        "apellido": "",
+        "area": "Recepción",
+        "edificio": "1656",
+        "piso": "PB Frente",
+        "interno": "1010"
+    },
+    {
+        "id": 3,
+        "nombre": "Nancy",
+        "apellido": "González",
+        "area": "Dir. Desarrollo Federal C y M",
+        "edificio": "1656",
+        "piso": "10 Frente",
+        "interno": "1012"
+    },
+    {
+        "id": 4,
+        "nombre": "Rocío",
+        "apellido": "Lastra Zanone",
+        "area": "Dir. Desarrollo Federal C y M",
+        "edificio": "1656",
+        "piso": "PB Frente",
+        "interno": "1012"
+    },
+    {
+        "id": 5,
+        "nombre": "María de los Ángeles",
+        "apellido": "Palacios",
+        "area": "Unidad de auditoría interna",
+        "edificio": "1656",
+        "piso": "11 Contra",
+        "interno": "1013"
+    },
+    {
+        "id": 6,
+        "nombre": "Carlos David",
+        "apellido": "Abdala",
+        "area": "Unidad de auditoría interna",
+        "edificio": "1656",
+        "piso": "11 Contra",
+        "interno": "1014"
+    }
+
+]
