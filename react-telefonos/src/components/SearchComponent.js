@@ -48,15 +48,7 @@ const SearchComponent = () => {
             />
                 <table className="table table-striped table-hover mt-5 shadow-lg">
                     <thead>
-                        {/* <tr  className="bg-table">
-                            <th scope="col">Interno</th>
-                            <th scope="col">Nombre</th>
-                            <th scope="col">Apellido</th>
-                            <th scope="col">Área</th>
-                            <th scope="col">Edificio</th>
-                            <th scope="col">Piso</th>
-                            <th scope="col">Email</th>
-                        </tr> */}
+                        
                         <tr  className="bg-table">
                             <th scope="col">Apellido</th>
                             <th scope="col">Nombre</th>
